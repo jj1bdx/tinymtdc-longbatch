@@ -4,6 +4,8 @@ This archive contains TinyMT pseudo random number generated parameters,
 computed by `tinymt32dc` and `tinymt64dc` programs, where the first 1048576
 keys for the 256 sets of `id=0~255`.
 
+*Caution*: size for each `.txt` file under `tinymt32dc`: ~76Mbytes, `tinymt64dc`: ~84Mbytes.
+
 ## Details of TinyMT algorithm
 
 * See <http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/TINYMT/index.html>
