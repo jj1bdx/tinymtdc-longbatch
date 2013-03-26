@@ -1,4 +1,4 @@
-# TinyMT parameter list
+# TinyMT pre-calculated parameter list
 
 This archive contains TinyMT pseudo random number generated parameters,
 computed by `tinymt32dc` and `tinymt64dc` programs, where the first 1048576
