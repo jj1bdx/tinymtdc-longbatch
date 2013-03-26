@@ -1,0 +1,13 @@
+kenji@minimax[1003]% awk -f deltacount.awk tinymt32dc.*.txt
+delta[2] =359409
+delta[3] =2802
+delta[4] =19
+delta[5] =1
+delta[0] =244400667
+delta[1] =23672558
+kenji@minimax[1004]% awk -f deltacount.awk tinymt64dc.*.txt
+delta[2] =1320834
+delta[3] =13695
+delta[4] =77
+delta[0] =191734783
+delta[1] =39714483
