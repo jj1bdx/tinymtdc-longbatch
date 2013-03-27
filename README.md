@@ -1,5 +1,9 @@
 # TinyMT pre-calculated parameter list
 
+*Warning*: the entire repository of the archive will take ~82Gbytes.
+*Forking the dataset within GitHub should not be done unless absolutely necessary.*
+*Cloning the dataset without sufficient diskspace may result in an unexpected consequence.*
+
 This archive contains TinyMT pseudo random number generated parameters,
 computed by `tinymt32dc` and `tinymt64dc` programs, where the first 1048576
 keys for the 256 sets of `id=0~255`.
