@@ -16,14 +16,14 @@ keys for the 256 sets of `id=0~255`.
 * See <https://github.com/jj1bdx/TinyMT/> for my fork of the reference code
 * See <https://github.com/jj1bdx/tinymt-erlang/> for the [Erlang](http://www.erlang.org/) implementation
 * See [my paper published at ACM SIGPLAN Erlang Workshop 2012](http://doi.acm.org/10.1145/2364489.2364504)
-  ([Author copy](http://doi.acm.org/10.1145/2364489.2364504))
+  ([Author copy in pdf](http://www.k2r.org/kenji/papers/file-archive/rikitake-erlang-tinymt-author.pdf))
 
 ## Acknowledgment
 
 Kenji Rikitake used the supercomputer service provided by Academic
 Center for Computing and Media Studies (ACCMS), Kyoto University, Japan, 
 for generating the TinyMT generation parameters included in this archive,
-during November 2011 with the ACCMS *laurel* cluster.
+during November to December 2011 with the ACCMS *laurel* cluster.
 The computation of the entire archive took ~32 days.
 
 ## License
